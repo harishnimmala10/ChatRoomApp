@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="signInLabel">Sign In</string>
+    <string name="email_hint">  Enter Email</string>
+    <string name="password_hint">  Enter Password</string>
+    <string name="appTitle"> </string>
+    <string name="firstNameHint">  Enter First Name</string>
+    <string name="lastNameHint">  Enter Last Name</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="signUpLabel">Sign Up</string>
+    <string name="cancelHint">Cancel</string>
+    <string name="signUpLinkLabel">Sign Up</string>
+    <string name="facebook_app_id">1178886795492967</string>
+    <string name="view_profile_label">View Profile</string>
+    <string name="logout_label">Logout</string>
+    <string name="first_name_label">First Name: </string>
+    <string name="last_name_label">Last Name:</string>
+    <string name="gender_label">Gender: </string>
+    <string name="btn_ok_label">Ok</string>
+    <string name="btn_update_label">Update</string>
+    <string name="all_users_label">Users :</string>
+    <string name="profilePicLabel">Profile Avatar :</string>
+    <string name="back_btn_label">Back</string>
+    <string name="send_msg_label">Send Message</string>
+
+</resources>
